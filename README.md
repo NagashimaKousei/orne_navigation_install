@@ -13,3 +13,10 @@ installする際に手順
 ``cd ../``
 
 ``catkin build``
+
+catkin_ws/srcの下にinstall
+
+``cd ~/catkin_ws/src``
+
+``git clone https://github.com/DaikiMaekawa/ypspur.git``
+
